@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on **[Project "K"](https://github.com/iamavasya/Project-K)**
+- 🌱 I’m currently learning ASP.NET Core
+> [!NOTE]
+> I don't know what else to say, I'll change it later
 <!--
 **iamavasya/iamavasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
