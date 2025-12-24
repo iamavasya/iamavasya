@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Fullstack Software Engineer from &#x1f1fa;&#x1f1e6;
-- Main stack -- .NET and Angular
+- Main stack — .NET and Angular
 - 4th year student studying Computer Science
 - Working on personal pet-project [Project "K"](https://github.com/iamavasya/Project-K)
 - Learning Python 🐍
