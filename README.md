@@ -1,7 +1,9 @@
 ## Hi there 👋
 - Fullstack Software Engineer from &#x1f1fa;&#x1f1e6;
+- Main stack -- .NET and Angular
 - 4th year student studying Computer Science
 - Working on personal pet-project [Project "K"](https://github.com/iamavasya/Project-K)
+- Learning Python 🐍
 ### 💻 Techstack:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
